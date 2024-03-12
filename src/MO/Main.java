@@ -9,7 +9,7 @@ public class Main {
 
         Student student1 = new Student();
 
-        /*
+        
         String username = getName();
         System.out.printf("Name is : " + username +  "\n");
         String Age = getAge();
@@ -18,7 +18,7 @@ public class Main {
         System.out.printf("College is : " + College +  "\n");
         String Mail = getEmail();
         System.out.printf("Email is : " + Mail +  "\n");
-        */
+
 
         /*
         sayHello(username);
